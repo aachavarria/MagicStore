@@ -8,3 +8,6 @@ Entrar a carpeta public/Magic
   Correr bower install
 
 Levantar Server en carpeta Raiz con node server.js
+
+Para hacer deploy del proyecto en public/magic
+  correr comando npm run build 
