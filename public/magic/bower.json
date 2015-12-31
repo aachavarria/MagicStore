@@ -1,0 +1,16 @@
+{
+  "name": "Custom",
+  "authors": [
+    "Aaron Chavarria <aaron.chavarria@rivetlogic.com>"
+  ],
+  "description": "Prueba",
+  "main": "magicStore.html",
+  "moduleType": [],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "dependencies": {
+    "jquery": "~2.1.4",
+    "react": "~0.14.4"
+  }
+}
