@@ -1,13 +1,10 @@
-
-
-	
-
 /*
  *Module depencencies
 */
 
 //import React from 'react';
 //import ReactDOM from 'react-dom';
+
 import TableContent from './stock/TableContent';
 import FilterList from './filter/FilterList';
 
