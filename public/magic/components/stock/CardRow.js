@@ -2,8 +2,8 @@
  *Module depencencies
 */
 
-//import React from 'react';
-//import ReactDOM from 'react-dom';
+import React from 'react';
+import ReactDOM from 'react-dom';
 import CardImage from './CardImage';
 
 export default class CardRow extends React.Component{

@@ -2,9 +2,10 @@
  *Module depencencies
 */
 
-//import React from 'react';
-//import ReactDOM from 'react-dom';
+import React from 'react';
+import ReactDOM from 'react-dom';
 import CardTable from './CardTable';
+import $ from 'jquery';
 
 export default class TableContent extends React.Component{
 	constructor(props){

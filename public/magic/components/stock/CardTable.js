@@ -2,8 +2,8 @@
  *Module depencencies
 */
 
-//import React from 'react';
-//import ReacthOM from 'react-dom';
+import React from 'react';
+import ReacthOM from 'react-dom';
 import CardRow from './CardRow';
 
 export default class CardTable extends React.Component {
